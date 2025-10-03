@@ -106,4 +106,5 @@ Chaque étape génère des logs et métriques pour garantir traçabilité et mon
 
 ---
 
-## 11. Diagramme Simplifié (Mermaid)
+## 11. Diagramme Simplifié (Mermaid JS)
+![Diagramme Simplifié ](mermaid.jpg)
